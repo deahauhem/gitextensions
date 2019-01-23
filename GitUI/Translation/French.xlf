@@ -4711,8 +4711,8 @@ Quand vous voulez effacer une branche non-entièrement fusionnée, vous pouvez o
         
       </trans-unit>
       <trans-unit id="DeleteRemote.Text">
-        <source>Delete branche(s) from remote repository</source>
-        <target>Effacer le(s) branche(s) depuis le dépôt distant </target>
+        <source>Delete branch(es) from remote repository</source>
+        <target>Effacer le(s) branch(es) depuis le dépôt distant </target>
         
       </trans-unit>
       <trans-unit id="_confirmDeleteUnmergedRemoteBranchMessage.Text">

@@ -4696,7 +4696,7 @@ Jeżeli chcesz usunąć nie do końca scaloną gałąź, możesz nadpisać to pr
         
       </trans-unit>
       <trans-unit id="DeleteRemote.Text">
-        <source>Delete branche(s) from remote repository</source>
+        <source>Delete branch(es) from remote repository</source>
         <target>Usuń gałęzie ze zdalnego repozytorium</target>
         
       </trans-unit>

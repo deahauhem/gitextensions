@@ -98,7 +98,7 @@
             this.DeleteRemote.Name = "DeleteRemote";
             this.DeleteRemote.Size = new System.Drawing.Size(176, 21);
             this.DeleteRemote.TabIndex = 3;
-            this.DeleteRemote.Text = "Delete branche(s) from remote repository";
+            this.DeleteRemote.Text = "Delete branch(es) from remote repository";
             this.DeleteRemote.UseVisualStyleBackColor = true;
             this.DeleteRemote.CheckedChanged += new System.EventHandler(this.DeleteRemote_CheckedChanged);
             // 

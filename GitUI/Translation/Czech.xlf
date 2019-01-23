@@ -4557,7 +4557,7 @@ Pokud chcete smazat plně nesloučenou větev, tak použijte volbu &quot;vynutit
         
       </trans-unit>
       <trans-unit id="DeleteRemote.Text">
-        <source>Delete branche(s) from remote repository</source>
+        <source>Delete branch(es) from remote repository</source>
         
       </trans-unit>
       <trans-unit id="_confirmDeleteUnmergedRemoteBranchMessage.Text">
